@@ -33,10 +33,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Amplitude: 0.8
-    - _BlurAmount: 0.5
+    - _BlurAmount: 0.2
     - _DepthModulator: 0.559
     - _Gap: 0.1
-    - _HotLight: 0.3
+    - _HotLight: 0.8
     - _Param1: 7.04
     - _Param2: 1.889
     - _Param3: 0.0933
@@ -47,4 +47,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dimensions: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _RandomFractions: {r: 0.78637993, g: 0.74210846, b: 0, a: 0}
-    - _Rnd: {r: 0.9459406, g: 0.0073884726, b: 0, a: 0}
+    - _Rnd: {r: 0.07201588, g: 0.22815323, b: 0, a: 0}
